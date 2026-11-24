@@ -41,9 +41,11 @@ API key diatur lewat environment variable API_KEY pada flow REST API IoT (nilai:
 
 ## Screenshot
 Dashboard
+
 <img width="766" height="1236" alt="image" src="https://github.com/user-attachments/assets/50921158-6574-4e6e-9006-1cea39c98e10" />
 
 Flow Node-RED
+
 <img width="807" height="638" alt="image" src="https://github.com/user-attachments/assets/4e73a01e-d640-4644-8c0c-913d00ce9003" />
 
 WebSocket
